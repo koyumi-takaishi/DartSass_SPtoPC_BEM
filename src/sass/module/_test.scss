@@ -1,6 +1,6 @@
 @use "global" as *;
 
-.p-test {
+.test {
   color: red;
   font-size: rem(25);
   @include mq(md) {
